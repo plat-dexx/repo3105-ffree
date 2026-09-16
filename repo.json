@@ -184,51 +184,6 @@
       "isPrivate": false
     },
     {
-      "identifier": "DINHVI.3105",
-      "kind": "patch",
-      "name": "Hack Định Vị FFMAX",
-      "author": "PlatDex",
-      "version": "1.0.0",
-      "summary": "Bản Hack FFMAX",
-      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
-      "category": "Game Hack PlatDex Free",
-      "tags": [
-        "Game Hack PlatDex Free"
-      ],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH11.png",
-      "screenshots": [
-        "assets/ANH0.png"
-      ],
-      "download": "packages/DINHVI.3105",
-      "sha256": "0dcca5f23b201cde614809fe1ac529cc29c86502d8b6113c2f38d238d9a6df42",
-      "size": 13179459,
-      "password": "YaBao",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "changelog": "Phiên bản đầu tiên.",
-      "featured": false,
-      "isPrivate": false
-    },
-    {
       "identifier": "AIMBODY.3150",
       "kind": "patch",
       "name": "Hack AIMBODY FFMAX",
