@@ -184,12 +184,12 @@
       "isPrivate": false
     },
     {
-      "identifier": "AIMBODY.3150",
+      "identifier": "AIMLOCK-FFM.3150",
       "kind": "patch",
-      "name": "Hack AIMBODY FFMAX",
+      "name": "Hack Free Fire MAX FREE",
       "author": "PlatDex",
       "version": "1.0.0",
-      "summary": "Bản Hack FFMAX",
+      "summary": "Bản Hack FFMAX FREE",
       "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
       "category": "Game Hack PlatDex Free",
       "tags": [
@@ -200,10 +200,9 @@
       "screenshots": [
         "assets/ANH0.png"
       ],
-      "download": "packages/AIMBODY.3150",
-      "sha256": "311796cb594278c5c22055f2a5bb63bede90c61ba3f6b91c43d9e1cef8d0a971",
-      "size": 63936,
-      "password": "YaBao",
+      "download": "packages/AIMLOCK-FFM.3150",
+      "sha256": "c0ce3791de56d885337114eccf91d9ec0ce1866ba1770552ab6c0cbca40d5a8e",
+      "size": 22134,
       "supportedOS": [
         {
           "minimum": "17.0",
