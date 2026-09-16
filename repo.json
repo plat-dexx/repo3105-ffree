@@ -6,50 +6,6 @@
   "icon": "assets/ANH1.png",
   "packages": [
     {
-      "identifier": "Vuong-Lam",
-      "kind": "wallpaper",
-      "name": "Vương Lâm Wallpaper",
-      "author": "PlatDex",
-      "version": "1.0.0",
-      "summary": "Wallpaper Vương Lâm",
-      "description": "Xấu Lắm Đừng Cài",
-      "category": "Wallpaper",
-      "tags": [
-        "Wallpaper"
-      ],
-      "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/ANH3.png",
-      "screenshots": [
-        "assets/ANH0.png"
-      ],
-      "download": "packages/wanglin.tendies",
-      "sha256": "7d6bad0484f914fb6c9c7a929c39ce03d6ac57b242cbfa31c228c5021862c5d3",
-      "size": 17774688,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "changelog": "Phiên Bản Đầu Tiên.",
-      "featured": false,
-      "isPrivate": false
-    },
-    {
       "identifier": "3d-neon-dialer",
       "kind": "patch",
       "name": "3D Neon",
@@ -57,9 +13,9 @@
       "version": "1.0.0",
       "summary": "Giao diện bàn phím 3D Neon.",
       "description": "Bàn Phím 3D Neon Dialer",
-      "category": "Telephone",
+      "category": "Patch",
       "tags": [
-        "Telephone"
+        "Patch"
       ],
       "publishedAt": "2026-09-05T10:00:00Z",
       "icon": "assets/ANH9.png",
