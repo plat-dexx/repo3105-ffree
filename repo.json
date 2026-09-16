@@ -184,7 +184,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "AIMLOCK-FFM.3150",
+      "identifier": "HACK-FFM.3150",
       "kind": "patch",
       "name": "Hack FFMAX OB55 FREE",
       "author": "PlatDex",
@@ -200,7 +200,7 @@
       "screenshots": [
         "assets/ANH0.png"
       ],
-      "download": "packages/AIMLOCK-FFM.3150",
+      "download": "packages/HACK-FFM.3105",
       "sha256": "c0ce3791de56d885337114eccf91d9ec0ce1866ba1770552ab6c0cbca40d5a8e",
       "size": 22134,
       "supportedOS": [
