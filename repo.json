@@ -184,7 +184,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "HACK-FFM.3150",
+      "identifier": "FFMV2.3150",
       "kind": "patch",
       "name": "Hack FFMAX OB55 FREE",
       "author": "PlatDex",
@@ -200,9 +200,10 @@
       "screenshots": [
         "assets/ANH0.png"
       ],
-      "download": "packages/HACK-FFM.3105",
-      "sha256": "c0ce3791de56d885337114eccf91d9ec0ce1866ba1770552ab6c0cbca40d5a8e",
-      "size": 22134,
+      "download": "packages/FFMV2.3105",
+      "sha256": "d2825b10406502f1ac3cf02146267799529dbc72c1c627df35adc59344454d8f",
+      "size": 21314,
+      "password": "YaBaoCheat",
       "supportedOS": [
         {
           "minimum": "17.0",
