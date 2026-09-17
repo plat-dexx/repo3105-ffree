@@ -50,19 +50,19 @@
       "isPrivate": false
     },
     {
-      "identifier": "Capcut-Pro",
+      "identifier": "CapcutPro.3105",
       "kind": "patch",
-      "name": "Capcut Pro",
+      "name": "CapCut Pro",
       "author": "PlatDex",
       "version": "1.0.0",
-      "summary": "Nâng Capcut lên Pro miễn phí vĩnh viễn",
+      "summary": "Nâng CapCut Lên Pro Vĩnh Viễn",
       "description": "Sau khi nâng không được login tài khoản",
       "category": "Patch",
       "tags": [
         "Patch"
       ],
       "publishedAt": "2026-08-21T10:00:00Z",
-      "icon": "assets/ANH3.png",
+      "icon": "assets/ANH3.PNG",
       "screenshots": [
         "assets/ANH0.png"
       ],
@@ -107,7 +107,7 @@
         "Patch"
       ],
       "publishedAt": "2026-09-06T10:00:00Z",
-      "icon": "assets/ANH4.png",
+      "icon": "assets/ANH4.PNG",
       "screenshots": [
         "assets/ANH0.png"
       ],
