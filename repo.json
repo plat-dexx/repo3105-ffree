@@ -185,9 +185,9 @@
       "isPrivate": false
     },
     {
-      "identifier": "MENU-FFM.3105",
+      "identifier": "HACK-FFM.3105",
       "kind": "patch",
-      "name": "Hack Menu FFMAX OB55 FREE",
+      "name": "Hack FFMAX OB55 FREE",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Hack FFMAX FREE",
@@ -201,9 +201,9 @@
       "screenshots": [
         "assets/ANH0.png"
       ],
-      "download": "packages/MENU-FFM.3105",
-      "sha256": "9fb0aba903de1dd896f9c311be600c4e82f0f7bd556b2c734fca9a01ba44c64c",
-      "size": 21228,
+      "download": "packages/HACK-FFM.3105",
+      "sha256": "393cdf3a74bb141bed67e60ae6cf3e82cb86a2eb64951aba1dadd47a88bc8711",
+      "size": 44340,
       "supportedOS": [
         {
           "minimum": "17.0",
