@@ -18,7 +18,7 @@
         "Patch"
       ],
       "publishedAt": "2026-09-05T10:00:00Z",
-      "icon": "assets/ANH3.png",
+      "icon": "assets/ANH2.png",
       "screenshots": [
         "assets/ANH0.png"
       ],
@@ -62,7 +62,7 @@
         "Patch"
       ],
       "publishedAt": "2026-08-21T10:00:00Z",
-      "icon": "assets/ANH4.png",
+      "icon": "assets/ANH3.png",
       "screenshots": [
         "assets/ANH0.png"
       ],
@@ -107,7 +107,7 @@
         "Patch"
       ],
       "publishedAt": "2026-09-06T10:00:00Z",
-      "icon": "assets/ANH10.png",
+      "icon": "assets/ANH4.png",
       "screenshots": [
         "assets/ANH0.png"
       ],
@@ -152,7 +152,7 @@
         "Game Hack PlatDex Free"
       ],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH12.png",
+      "icon": "assets/ANH5.png",
       "screenshots": [
         "assets/ANH0.png"
       ],
@@ -185,9 +185,9 @@
       "isPrivate": false
     },
     {
-      "identifier": "FFMV2.3105",
+      "identifier": "MENU-FFM.3105",
       "kind": "patch",
-      "name": "Hack FFMAX OB55 FREE",
+      "name": "Hack Menu FFMAX OB55 FREE",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Hack FFMAX FREE",
@@ -197,14 +197,13 @@
         "Game Hack PlatDex Free"
       ],
       "publishedAt": "2026-09-14T00:00:00Z",
-      "icon": "assets/ANH11.png",
+      "icon": "assets/ANH6.png",
       "screenshots": [
         "assets/ANH0.png"
       ],
-      "download": "packages/FFMV2.3105",
-      "sha256": "d2825b10406502f1ac3cf02146267799529dbc72c1c627df35adc59344454d8f",
-      "size": 21314,
-      "password": "YaPaoCheat",
+      "download": "packages/MENU-FFM.3105",
+      "sha256": "9fb0aba903de1dd896f9c311be600c4e82f0f7bd556b2c734fca9a01ba44c64c",
+      "size": 21228,
       "supportedOS": [
         {
           "minimum": "17.0",
