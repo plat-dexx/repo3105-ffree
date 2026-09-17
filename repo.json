@@ -113,8 +113,8 @@
       ],
       "download": "packages/LocketCustom.3105",
       "sha256": "5ae759dcefdcfc265bd071040d948de174d1e6531b1ff898f032dfe273e3502c",
-      "password": "3105",
       "size": 3697,
+      "password": "3105",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -135,6 +135,7 @@
           ]
         }
       ],
+      "changelog": "Phiên bản đầu tiên.",
       "featured": false,
       "isPrivate": false
     },
@@ -184,7 +185,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "FFMV2.3150",
+      "identifier": "FFMV2.3105",
       "kind": "patch",
       "name": "Hack FFMAX OB55 FREE",
       "author": "PlatDex",
