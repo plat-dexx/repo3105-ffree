@@ -185,12 +185,12 @@
       "isPrivate": false
     },
     {
-      "identifier": "FFM-AIMNECK.3105",
+      "identifier": "HACKFFTH.3105",
       "kind": "patch",
-      "name": "Hack FFMAX AIM NECK OB55 FREE",
+      "name": "Hack FreeFire Thường OB55 FREE",
       "author": "PlatDex",
       "version": "1.0.0",
-      "summary": "Bản Hack FFMAX Anti FREE",
+      "summary": "Bản Hack FreeFire Thường Anti FREE",
       "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
       "category": "Hack Game Plat Free",
       "tags": [
@@ -201,9 +201,10 @@
       "screenshots": [
         "assets/ANH0.png"
       ],
-      "download": "packages/FFM-AIMNECK.3105",
-      "sha256": "3f84a137eea6804f03e45391641953177d69d2ba56a74567c7b4f2a9e4e9878c",
-      "size": 64663,
+      "download": "packages/HACKFFTH.3105",
+      "sha256": "f4812074eb83c753d761c4d44a640b94d8248e5734efbb7baf584a7836054d05",
+      "size": 42657,
+      "password": "@dovietphuog",
       "supportedOS": [
         {
           "minimum": "17.0",
