@@ -140,12 +140,12 @@
       "isPrivate": false
     },
     {
-      "identifier": "HackMapAOV.3105",
+      "identifier": "UNLOCKSKIN-MAP-CAM.3105",
       "kind": "patch",
-      "name": "Hack Map AOV Anti Free",
+      "name": "Liên Quân Map Cam Skin",
       "author": "PlatDex",
       "version": "1.0.0",
-      "summary": "Bản Hack AOV Anti Free.",
+      "summary": "Bản Mod Liên Quân Anti Free.",
       "description": "Cách Chơi: \nBước1: Vào Game Tải Đủ Tài Nguyên \nBước2: Vào App 3105 \nBước3: Áp Dụng Patch \nBước4: Thoát Game Xoá Đa Nhiệm Vào Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
       "category": "Hack Game Plat Free",
       "tags": [
@@ -156,10 +156,10 @@
       "screenshots": [
         "assets/ANH0.png"
       ],
-      "download": "packages/HackMapAOV.3105",
-      "sha256": "85748555ae5f8ece18522fa26a93f25d326b56aabcd4610d386f974d34b37da7",
-      "size": 138957,
-      "password": "PlatDex",
+      "download": "packages/UNLOCKSKIN-MAP-CAM.3105",
+      "sha256": "b255fce4a9207ec3e839f7bd7e198a3d21a2681f29c38624bdd1f13c04812efc",
+      "size": 134838,
+      "password": "1234bannei",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -202,9 +202,9 @@
         "assets/ANH0.png"
       ],
       "download": "packages/FFM.3105",
-      "sha256": "7b326c26497f9e8cbf80c2758245340ba146b0f1088a0a4553a013b46fbaf277",
-      "size": 40398,
-      "password": "@dovietphuog",
+      "sha256": "901707c6a63d674c03fc2d3a22844b1d155e54761b44a3c0beda8051815cbf7b",
+      "size": 64025,
+      "password": "ngvkhoa",
       "supportedOS": [
         {
           "minimum": "17.0",
